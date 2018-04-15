@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">RecipePuppy</string>
+
+    <string name="act_recipe_search_menu_button_search">Search</string>
+    <string name="act_recipe_search_lbl_empty_list">Looks like you don\'t have recipes</string>
+    <string name="act_recipe_search_msg_server_error">Error @statusCode received from the server!</string>
+    <string name="act_recipe_search_msg_generic_error">Unknown error occurred \n Please try again...</string>
+
+    <string name="act_recipe_details_lbl_ingredients">Ingredients</string>
+    <string name="act_recipe_details_lbl_web_reference">Web reference</string>
+
+</resources>
